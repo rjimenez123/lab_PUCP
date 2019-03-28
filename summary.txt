@@ -5,4 +5,10 @@ git status --> checkear los cambis que han habido en el repo
 
 // cuando se hace git push se sube lo que este en el stage de git a la nube, no lo que esta en local.
 // para pasar un archivo del local al stage del git, se corre lo sgt:
-git add -A // -A lo que hace es que maneja el movimiento de una archivo a otra carpeta dentro del repo. 
+
+1. git add -A // -A lo que hace es que maneja el movimiento de una archivo a otra carpeta dentro del repo.
+              // el add mueve del local al stage de git.
+2. git commit -m "commentario..." // aqui ya tenemos los archivos en el stage de git, pero debemos ponerle un nombre a este cambio.
+3. git push
+
+asdasdasdasdasdasdasd last commit 
