@@ -11,4 +11,4 @@ git status --> checkear los cambis que han habido en el repo
 2. git commit -m "commentario..." // aqui ya tenemos los archivos en el stage de git, pero debemos ponerle un nombre a este cambio.
 3. git push
 
-asdasdasdasdasdasdasd last commit 
+Luego de un add, commit, push y hacemos un cambio en un archivo, todos estos cambios estarán en nuestro local y no en el stage del git. Entonces debemos repetir los 3 pasos desde el git add para subir esos cambis al git y luego recien pushearlos a la nube.
