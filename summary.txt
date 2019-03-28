@@ -1,0 +1,8 @@
+git clone link --> descargar del github al local
+git push --> del local a la nube
+git pull --> de la nube al local actualizar todos los cambios reaizados pr los otros
+git status --> checkear los cambis que han habido en el repo
+
+// cuando se hace git push se sube lo que este en el stage de git a la nube, no lo que esta en local.
+// para pasar un archivo del local al stage del git, se corre lo sgt:
+git add -A // -A lo que hace es que maneja el movimiento de una archivo a otra carpeta dentro del repo. 
